@@ -363,7 +363,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 113386800}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1139824353}
+        m_MethodName: PontosBalasArmadilha
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &113386800
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -560,7 +571,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 442054698}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1139824353}
+        m_MethodName: PosicaoPlataforma
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &442054698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -981,7 +1003,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1305710896}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1139824353}
+        m_MethodName: NArmadilha
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1305710896
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1230,7 +1263,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1499207634}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1139824353}
+        m_MethodName: VelocidadeArmadilha
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1499207634
 MonoBehaviour:
   m_ObjectHideFlags: 0
